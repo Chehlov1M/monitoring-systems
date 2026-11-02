@@ -99,7 +99,7 @@ Push (например, InfluxDB + Telegraf, Zabbix Active)
 
 ![Group by](graph.png)
 
-![График CPU в Chronograf: данные из telegraf.autogen успешно визуализированы](dynamic_source_host.png)
+![График CPU в Chronograf: данные из telegraf.autogen успешно визуализированы](_graph_.png)
 
 
 
