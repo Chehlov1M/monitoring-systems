@@ -97,7 +97,7 @@ Push (например, InfluxDB + Telegraf, Zabbix Active)
 
 ![Команда docker_ps](dynamic_source_.png)
 
-![Команда docker_ps](dynamic_source.png)
+![Команда](dynamic_source.png)
 
 ![График CPU в Chronograf: данные из telegraf.autogen успешно визуализированы](dynamic_source_host.png)
 
