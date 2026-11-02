@@ -92,5 +92,6 @@ Push (например, InfluxDB + Telegraf, Zabbix Active)
 - **InfluxDB 1.8** — база данных временных рядов, хранит собранные метрики.
 - **Chronograf** — интерфейс для визуализации метрик и построения запросов. Используется для отображения графиков и проверки работы стека.
 - **Kapacitor** — сервис для обработки данных и настройки алертов. Запущен и подключён к InfluxDB; в рамках лабораторной работы настроен, но алерты не создаются.
+  
+    ![График CPU в Chronograf: данные из telegraf.autogen успешно визуализированы](dynamic_ source_ host.png)
 
-![SHOW MEASUREMENTS: в базе telegraf есть измерения cpu, disk, mem](dynamic source host.png)
